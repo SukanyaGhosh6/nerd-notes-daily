@@ -6,14 +6,6 @@ Each note here is based on something I found worth thinking about. Sometimes it�
 
 ---
 
-## What This Repo Contains
-
-- `articles/` — Full-length write-ups of what I read and what I learned  
-- `vocabulary/` — Interesting terms or technical expressions I picked up  
-- `summaries/` — Condensed, quick-reference versions of longer reads  
-- `assets/` — Supporting visuals, diagrams, or screenshots  
-
----
 
 ## Example Topics
 
