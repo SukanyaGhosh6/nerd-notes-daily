@@ -1,6 +1,6 @@
 # Day 03 — AI-Augmented Ethical Hacking: Enhancing Manual Exploitation and Privilege Escalation
 
-Today, I explored the intriguing intersection of artificial intelligence and ethical hacking, guided by the paper *"AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments"* by Haitham S. Al-Sinani and Chris J. Mitchell. :contentReference[oaicite:1]{index=1} This study delves into how generative AI (GenAI) can assist in manual exploitation and privilege escalation tasks within Linux-based penetration testing environments.
+Today, I explored the intriguing intersection of artificial intelligence and ethical hacking, guided by the paper *"AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments"* by Haitham S. Al-Sinani and Chris J. Mitchell.  This study delves into how generative AI (GenAI) can assist in manual exploitation and privilege escalation tasks within Linux-based penetration testing environments.
 
 **Integrating AI into Ethical Hacking**
 
